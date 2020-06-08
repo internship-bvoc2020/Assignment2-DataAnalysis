@@ -3,7 +3,7 @@
 
 Introduction: 
 
-A Healthcare firm has gathered a month data of few of its selected employees to analyse various attributes about them. These pertain to Employee working patterns, their age, income, education, marital status and other such metrics. The idea to find corresponding trends between any related attributes as well as distribution patterns of metrics across the varied set
+A Healthcare firm has gathered a month data of few of its selected employees to analyse various attributes about them. These pertain to Employee working patterns, their age, income, education, marital status and other such metrics. The idea to find corresponding trends between any related attributes as well as distribution patterns of metrics across the varied set.
 For decision makers to take actions, it is required to carry out univariate, bivariate and categorical analysis on some of the key attributes that are identified and represent them visually with relevant information.Also , some information is required for key questions
 
 **Data Description**
