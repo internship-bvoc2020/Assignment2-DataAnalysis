@@ -12,12 +12,12 @@ Dataset employee_data.csv has 978 records of various employees in a TAB delimite
 The following attributes (columns) are present
 FIELD	Description
 * Age	: Age of the Employee
-* employment_type :	Earlier working in which employment type
-* Salary :	Salary being paid to Employee
-* Education :	Education of the Employee
+* employment_type :	Working in which employment type
+* salary :	Salary being paid to Employee
+* education :	Education of the Employee
 * marital-status:	Marital status
-* Relationship:	Relationship status
-* Gender:	Male or Female
+* relationship:	Relationship status
+* gender:	Male or Female
 * hours_per_week:	Average working hours in a week put by Employee
  
 **Problem Statement**
