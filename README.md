@@ -30,10 +30,10 @@ From the dataset, the decision makers seek the following metrics
 
 3.	Show a bivariate analysis between Salary and hour_per_week.Choose a plot of your choice. Mention the inferences drawn  
 
-4.	For each Education type , showcase the distribution of Salary .Use Seaborn Facetgrid & Line plot.Identify the keen observations and mention
+4.	For each Education type , showcase the distribution of Salary .Use Seaborn Facetgrid & Line plot.Identify the key observations and mention them
 
 5.	Categorizing each Gender & Relationship status (combination of all values) , plot the hours_per_week worked.Choose appropriate plots.Mention the inferences drawn  
 
-6.	How many Males that have Marital status ‘Married-civ-spouse’ are earning above 150,000 ?
+6.	How many Males that have Marital status ‘Married-civ-spouse’ are earning above 150,000 ? 
 
-7.	Are Individuals that are Divorced are of higher age compared to Individuals that are Not-in-family ? Using mean , answer the above question & mention the respective age of the two groups
+7.	Are Divorced Individuals of higher age compared to Individuals that are Not-in-family ? Using mean as a measure , answer the above question & mention the respective age of the two groups
